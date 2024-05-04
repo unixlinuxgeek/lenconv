@@ -33,3 +33,10 @@ Example:
 $ go run  ./app.go 1
 1 ft. equal 0.30478512648582745 Meter
 ```
+
+Example 2 (create binary file):
+```shell
+$ go build  ./app.go
+$ ./app 1
+1 ft. equal 0.30478512648582745 Meter
+```
